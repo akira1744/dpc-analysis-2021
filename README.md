@@ -2,9 +2,7 @@
 
 https://dpc-analysis.streamlit.app/
 
-## 実行環境 
-
-streamlit
+![demo](./dpc-analysis-2021-demo.gif)
 
 ## データの前処理
 
